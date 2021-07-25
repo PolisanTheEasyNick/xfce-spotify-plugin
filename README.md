@@ -19,4 +19,4 @@ XFCE4 Panel plugin that shows spotify current song
 
 # Credits
 * https://github.com/mihirlad55 for [polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) and his spotifyctl utility
-* [genmon](https://github.com/mihirlad55/polybar-spotify-module) for for making it so easy
+* [genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start) for for making it so easy
