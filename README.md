@@ -17,6 +17,8 @@ XFCE4 Panel plugin that shows spotify current song
 1. Under "Command" pick spotify.sh file
 1. It is recommended to put Period to 0.25
 
+*If you want to change song format refer to [spotifyctl status-formatting](https://github.com/mihirlad55/polybar-spotify-module#status-formatting) and change it on second string
+
 # Credits
 * https://github.com/mihirlad55 for [polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) and his spotifyctl utility
 * [genmon](https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin/start) for for making it so easy
