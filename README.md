@@ -10,12 +10,12 @@ XFCE4 Panel plugin that shows spotify current song
 * Papirus icon theme if you don't want to change spotify icon in file
 
 # Installing
-* Download spotify.sh
-* Give to file permissions: `chmod +x spotify.sh`
-* Edit spotify.sh file and change path to spotify logo (or just download papirus-icon-theme)
-* Add genmon plugin to your panel and go to genmon properties
-* Under "Command" pick spotify.sh file
-* It is recommended to put Period to 0.25
+1. Download spotify.sh
+1. Give to file permissions: `chmod +x spotify.sh`
+1. Edit spotify.sh file and change path to spotify logo (or just download papirus-icon-theme)
+1. Add genmon plugin to your panel and go to genmon properties
+1. Under "Command" pick spotify.sh file
+1. It is recommended to put Period to 0.25
 
 # Credits
 * https://github.com/mihirlad55 for [polybar-spotify-module](https://github.com/mihirlad55/polybar-spotify-module) and his spotifyctl utility
